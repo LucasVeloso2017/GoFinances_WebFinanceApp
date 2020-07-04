@@ -1,6 +1,3 @@
-<h1 align="center">
-    <img alt="gofinances" title="gofinances" src=".github/logo.svg" width="300px" />
-</h1>
 
 <p align="center">
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
